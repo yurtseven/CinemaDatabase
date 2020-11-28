@@ -1,7 +1,6 @@
-# SQLServer-CinemaDatabase
+# SQLServer-Sinema Veritabanı
 
-Cinema automation application
-
+Sinema otomasyon sistemi için yazılmış olan sorgular.
 
 
 
